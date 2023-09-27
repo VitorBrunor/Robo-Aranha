@@ -1,7 +1,3 @@
-//Controle Aranha Robo Bluetooth
-//Eng.Rodrigo Silic Maia de Carvalho
-//Engenharia de Garagem
-
 #include <Servo.h>
 
 Servo a1; // Variável Servo
